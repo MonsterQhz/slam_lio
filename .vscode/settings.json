@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sci/Project/titan/devel/lib/python3/dist-packages",
+        "/home/sci/Project/PCL_Test/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/sci/Project/catkin_ws/devel/lib/python3/dist-packages"
+    ]
+}
